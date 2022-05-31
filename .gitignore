@@ -1,0 +1,14 @@
+/bin/
+/target/
+.classpath
+.project
+.jsdtscope
+.tern-project
+*.exe
+*.jsfdia
+.settings
+/.metadata
+.svn
+/suportedbdc_apl
+/suportedbdc_lib
+/tomcat
